@@ -1,0 +1,2 @@
+name,category,facilityType,address,locality,city,state,postalCode,latitude,longitude,supportedVehicleTypes,publicAccess,pricingModel,twoWheelerHourlyRate,fourWheelerHourlyRate,dailyPassRate,twoWheelerCapacity,fourWheelerCapacity,is24x7,opensAt,closesAt,bookingSupported,sourceReference
+Sample Facility Name,PUBLIC,Street and public parking,"Sample Street Address",Banjara Hills,Hyderabad,Telangana,500034,17.4156,78.4350,"TWO_WHEELER,FOUR_WHEELER",PUBLIC,PAID,15,30,150,50,25,false,06:00,22:00,false,OFFICIAL-SOURCE-REF-01
